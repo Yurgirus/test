@@ -2,7 +2,8 @@
 
 int main()
 {
-    int num = 4;
-    printf("%d", num);
+    int num1 = 4;
+    int num2 = 5;
+    printf("%d", num1 + num2);
 
 }
